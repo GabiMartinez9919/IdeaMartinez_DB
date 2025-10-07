@@ -38,5 +38,4 @@ El esquema está compuesto por las siguientes tablas:
 
 ## 📦 Contenido
 - `IdeaMartinez.sql` → Script completo de creación de la base de datos.  
-- `Diagrama_IdeaMartinez.png` → Diagrama E-R exportado desde MySQL Workbench.  
-- `IdeaMartinez.pdf` → Documento con descripción, modelo de negocio y listado de tablas.
+- `Diagrama_IdeaMartinez.png` → Diagrama E-R exportado desde MySQL Workbench.
