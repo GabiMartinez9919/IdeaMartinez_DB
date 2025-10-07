@@ -1,6 +1,6 @@
-# 💻 Entrega 1:
+# 💻 Entrega 1
 
-**Autor:**Gabriel Martínez  
+**Autor:** Gabriel Martínez  
 **Tema:** Base de datos de e-commerce (Gestión de ventas y stock)  
 **Curso:** Comisión 81840
 
